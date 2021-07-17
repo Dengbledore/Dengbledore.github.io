@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-17T12:09:56.692Z</updated>
+    <updated>2021-07-17T12:16:19.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -45,6 +45,11 @@ table th:nth-of-type(6) {
     width: 14p%;
 }
 </style>
+<style>
+table {
+margin: auto;
+}
+</style>
 <table>
 <thead>
 <tr>
@@ -67,11 +72,11 @@ table th:nth-of-type(6) {
 </tr>
 <tr>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
+<td>测试</td>
+<td>测试</td>
+<td>测试</td>
+<td>测试</td>
 </tr>
 </tbody>
 </table>
