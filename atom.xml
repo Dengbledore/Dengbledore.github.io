@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-17T12:20:05.235Z</updated>
+    <updated>2021-07-17T12:22:36.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -26,14 +26,11 @@
         </link>
         <updated>2021-07-17T11:17:19.000Z</updated>
         <content type="html"><![CDATA[<style>
-table {
-margin: auto;
-}
 table th:first-of-type {
     width: 50pt;
 }
 table th:nth-of-type(2) {
-    width: 200pt;
+    width: 250pt;
 }
 table th:nth-of-type(3) {
     width: 100pt;
