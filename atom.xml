@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-17T11:49:15.072Z</updated>
+    <updated>2021-07-17T11:56:25.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -25,21 +25,56 @@
         <link href="https://dengbledore.github.io/post/yue-du-mu-lu/">
         </link>
         <updated>2021-07-17T11:17:19.000Z</updated>
-        <content type="html"><![CDATA[<table>
+        <content type="html"><![CDATA[<style>
+table th:first-of-type {
+    width: 50pt;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+    width: 50pt;
+}
+table th:nth-of-type(4) {
+    width: 50pt;
+}
+table th:nth-of-type(5) {
+    width: 50pt;
+}
+table th:nth-of-type(6) {
+    width: 50pt;
+}
+</style>
+<table>
 <thead>
 <tr>
-<th></th>
-<th>书名</th>
-<th>作者</th>
-<th>评价</th>
+<th style="text-align:left"></th>
+<th style="text-align:left">书名</th>
+<th style="text-align:left">作者</th>
+<th style="text-align:left">评价</th>
 <th>感想</th>
 <th>豆瓣</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:left">历史深处的忧虑</td>
+<td style="text-align:left">林达</td>
+<td style="text-align:left">8.5</td>
+<td><a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1027191/">跳离</a></td>
+</tr>
+<tr>
+<td style="text-align:left">2</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table>
-<p>|     1    |   历史深处的忧虑  |  林达  |  8.5  |  <a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">跳转</a>  |  <a href="https://book.douban.com/subject/1027191/">跳离</a> |</p>
-<p>|     2     |       |      |      |         |        |</p>
 ]]></content>
     </entry>
     <entry>

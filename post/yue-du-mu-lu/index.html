@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://dengbledore.github.io/favicon.ico?v=1626522549687">
+<link rel="shortcut icon" href="https://dengbledore.github.io/favicon.ico?v=1626522980231">
 <link rel="stylesheet" href="https://dengbledore.github.io/styles/main.css">
 
 
@@ -28,20 +28,14 @@
 
 
     <meta name="description" content="
-
-
-
-书名
-作者
-评价
-感想
-豆瓣
-
-
-
-
-|     1    |   历史深处的忧虑  |  林达  |  8.5  |  跳转  |  跳离 |
-|     2     |       |      |      |        ..." />
+table th:first-of-type {
+    width: 50pt;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+   ..." />
     <meta name="keywords" content="" />
   </head>
   <body>
@@ -51,7 +45,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://dengbledore.github.io">
-        <img src="https://dengbledore.github.io/images/avatar.png?v=1626522549687" class="site-logo">
+        <img src="https://dengbledore.github.io/images/avatar.png?v=1626522980231" class="site-logo">
         <h1 class="site-title">Dengbledore&#39;s Blog</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -146,21 +140,56 @@
               </div>
             
             <div class="post-content" v-pre>
-              <table>
+              <style>
+table th:first-of-type {
+    width: 50pt;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+    width: 50pt;
+}
+table th:nth-of-type(4) {
+    width: 50pt;
+}
+table th:nth-of-type(5) {
+    width: 50pt;
+}
+table th:nth-of-type(6) {
+    width: 50pt;
+}
+</style>
+<table>
 <thead>
 <tr>
-<th></th>
-<th>书名</th>
-<th>作者</th>
-<th>评价</th>
+<th style="text-align:left"></th>
+<th style="text-align:left">书名</th>
+<th style="text-align:left">作者</th>
+<th style="text-align:left">评价</th>
 <th>感想</th>
 <th>豆瓣</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td style="text-align:left">1</td>
+<td style="text-align:left">历史深处的忧虑</td>
+<td style="text-align:left">林达</td>
+<td style="text-align:left">8.5</td>
+<td><a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1027191/">跳离</a></td>
+</tr>
+<tr>
+<td style="text-align:left">2</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table>
-<p>|     1    |   历史深处的忧虑  |  林达  |  8.5  |  <a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">跳转</a>  |  <a href="https://book.douban.com/subject/1027191/">跳离</a> |</p>
-<p>|     2     |       |      |      |         |        |</p>
 
             </div>
             
