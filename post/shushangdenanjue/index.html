@@ -1,139 +1,219 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" >
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>《树上的男爵》 | Dengbledore&#39;s Blog</title>
+<title>Dengbledore&#39;s Blog</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="description" content="身体和灵魂都应该在路上"/>
+<meta name="keywords" content="身体和灵魂都应该在路上"/>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://dengbledore.github.io/favicon.ico?v=1626527070696">
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<link rel="shortcut icon" href="https://dengbledore.github.io/favicon.ico">
+
 <link rel="stylesheet" href="https://dengbledore.github.io/styles/main.css">
 
+<!-- Modernizr JS -->
+<script src="https://dengbledore.github.io/media/scripts/modernizr-2.6.2.min.js"></script>
+<!-- FOR IE9 below -->
+<!--[if lt IE 9]>
+<scripts src="https://dengbledore.github.io/media/scripts/respond.min.js"></scripts>
+<![endif]-->
+
+<!-- Comment -->
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<!-- katex -->
+<!--<link href="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.css" rel="stylesheet">-->
+
+<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-VZ7FN5BJK-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-VZ7FN5BJK-3');
-</script>
-
-
-    <meta name="description" content="作者介绍
-1923年生，意大利人，父亲是园艺师，母亲是植物学家，有个弟弟。意大利共产党员，二战参加过反法西斯运动。1985年提名诺贝尔文学奖，于这一年去世。代表作是“祖先三部曲”：《两半的子爵》、《树上的男爵》、《看不见的骑士》，这些作品属..." />
-    <meta name="keywords" content="小说,外国文学" />
-  </head>
-  <body>
-    <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://dengbledore.github.io">
-        <img src="https://dengbledore.github.io/images/avatar.png?v=1626527070696" class="site-logo">
-        <h1 class="site-title">Dengbledore&#39;s Blog</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
+</head>
+<body>
+    <div id="fh5co-offcanvas">
+    <a href="#!" class="fh5co-close-offcanvas js-fh5co-close-offcanvas">
+        <span><i class="icon-cross3"></i> <span>Close</span></span>
+    </a>
+    <div class="fh5co-bio">
+        <figure>
+            <img src="https://dengbledore.github.io/images/avatar.png" alt="Dengbledore&#39;s Blog"
+                 class="img-responsive">
+        </figure>
+        <a href="https://dengbledore.github.io/post/about/"><h3 class="heading">ABOUT ME</h3></a>
+        <h2>Dengbledore&#39;s Blog</h2>
+        <p>身体和灵魂都应该在路上</p>
+        <ul class="fh5co-social">
+            
+                <li>
+                    
+                        <a href="https://github.com/Dengbledore" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a href="https://twitter.com/dengbledore" target="_blank">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a href="https://weibo.com/5781675873/profile?topnav=1&amp;wvr=6&amp;is_all=1" target="_blank">
+                            <i class="fab fa-weibo"></i>
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                        <a href="https://www.zhihu.com/people/deng-bu-li-duo-46-56" target="_blank">
+                            <i class="fab fa-zhihu"></i>
+                        </a>
+                    
+                </li>
+            
+                <li>
+                    
+                </li>
+            
+        </ul>
     </div>
-    <div>
-      
-        
-          <a href="/" class="site-nav">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="site-nav">
-            归档
-          </a>
-        
-      
-        
-          <a href="https://dengbledore.github.io/post/bi-ji" class="site-nav">
-            笔记
-          </a>
-        
-      
-        
-          <a href="/tags" class="site-nav">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="site-nav">
-            关于
-          </a>
-        
-      
+
+    <div class="fh5co-menu">
+
+        <!-- 标签 -->
+        <div class="fh5co-box">
+            <a href="https://dengbledore.github.io/tags/"><h3 class="heading">👉标签</h3></a>
+            <ul>
+                
+                    <li><a href="https://dengbledore.github.io/tag/sUAYsp1iW/">鲁迅</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/pqGX18MINJ/">神话</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/tXRWemdyhS/">杂文</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/6JIqr7iO7e/">中国文学</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/4ZDRj1syQ/">小说</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/p3BQCpa7MN/">外国文学</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/CPLw1siYB/">历史</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/EsjZbVIK12/">政治</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/ULahwJ2h7m/">文化</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/-gEOOJZvL5/">法律</a></li>
+                
+                    <li><a href="https://dengbledore.github.io/tag/cTlNQGXZ9j/">美国</a></li>
+                
+            </ul>
+        </div>
     </div>
-  </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-          <a class="social-link" href="https://github.com/Dengbledore" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-        
-      
-        
-          <a class="social-link" href="https://twitter.com/dengbledore" target="_blank">
-            <i class="fab fa-twitter"></i>
-          </a>
-        
-      
-        
-          <a class="social-link" href="https://weibo.com/5781675873/profile?topnav=1&amp;wvr=6&amp;is_all=1" target="_blank">
-            <i class="fab fa-weibo"></i>
-          </a>
-        
-      
-        
-          <a class="social-link" href="https://www.zhihu.com/people/deng-bu-li-duo-46-56" target="_blank">
-            <i class="fab fa-zhihu"></i>
-          </a>
-        
-      
-        
-          <a class="social-link" href="https://www.facebook.com/albus.dengbledore" target="_blank">
-            <i class="fab fa-facebook"></i>
-          </a>
-        
-      
-    </div>
-    <div class="site-description">
-      身体和灵魂都应该在路上
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://dengbledore.github.io/atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
 </div>
 
+<header id="fh5co-header">
+    <div class="container-fluid">
+        <div class="row">
+            <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+            <ul class="fh5co-social">
+                
+                    <li>
+                        <a href="/"
+                        
+                        >
+                            首页
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/archives"
+                        
+                        >
+                            归档
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://dengbledore.github.io/post/bi-ji"
+                        
+                        >
+                            笔记
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/tags"
+                        
+                        >
+                            标签
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/post/about"
+                        
+                        >
+                            关于
+                        </a>
+                    </li>
+                
+            </ul>
+            <div class="col-lg-12 col-md-12 text-center">
+                <h1 id="fh5co-logo">
+                    <a href="https://dengbledore.github.io">Dengbledore&#39;s Blog </a>
+                </h1>
+            </div>
+        </div>
+    </div>
+</header>
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">《树上的男爵》</h2>
-            <div class="post-date">2021-07-17</div>
-            
-              <div class="feature-container" style="background-image: url('https://dengbledore.github.io/post-images/shushangdenanjue.jpg')">
-              </div>
-            
-            <div class="post-content" v-pre>
-              <h2 id="作者介绍">作者介绍</h2>
+
+    <!--  <a href="#" class="fh5co-post-prev"><span>👈 Prev</span></a>-->
+    <!--  <a href="#" class="fh5co-post-next"><span>Next 👉</span></a>-->
+
+    <!-- 等gridea出自定义页面功能再优化一下 -->
+    
+        <div class="container-fluid">
+    <div class="row fh5co-post-entry single-entry">
+        <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+            <figure class="animate-box">
+                
+                    <img src="https://dengbledore.github.io/post-images/shushangdenanjue.jpg" alt="《树上的男爵》" class="img-responsive">
+                
+            </figure>
+            <span class="fh5co-meta animate-box">
+                
+                    <div class="tag-container">
+                        
+                            <a href="https://dengbledore.github.io/tag/4ZDRj1syQ/" class="tag">小说, </a>
+                        
+                            <a href="https://dengbledore.github.io/tag/p3BQCpa7MN/" class="tag">外国文学, </a>
+                        
+                    </div>
+                
+            </span>
+            <h2 class="fh5co-article-title animate-box">《树上的男爵》</h2>
+            <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
+                <li>2021-07-17</li>
+                <li>1312字</li>
+                <li>5 min read</li>
+            </ol>
+
+            <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
+                <div class="row">
+                    <div class="col-md-12 animate-box post-content">
+                        <p> <h2 id="作者介绍">作者介绍</h2>
 <p>1923年生，意大利人，父亲是园艺师，母亲是植物学家，有个弟弟。意大利共产党员，二战参加过反法西斯运动。1985年提名诺贝尔文学奖，于这一年去世。代表作是“祖先三部曲”：《两半的子爵》、《树上的男爵》、《看不见的骑士》，这些作品属于他中期的创作。</p>
 <h2 id="作品简介">作品简介</h2>
 <p>第一人称讲述“我”哥柯希莫在树上的传奇一生，对，柯希莫就是世袭的男爵。</p>
@@ -177,63 +257,122 @@
 <p>主角的人格塑造都像是环境的作用，作者说是“通过自觉进行艰苦磨砺而充分完成自我”，当然，在现实生活中环境也是对人格塑造的主要因素，但有些情节在我看来还是显得有点生硬突兀。不得不让我怀疑强盗甚至女主都是帮助男主完成自我的工具人，作者对于他的另外一部作品里的人物评价是“所有的其他任务除了在小说情节中的作用外没有别的意义”，当然，我不否认配角也肩负着作者想要表达的某些东西，作者也说到了现在这个世界缺乏想象力，“今天的问题已经不再是自我的部分丧失，是全部丧失，荡然无存”。所以这样的设定也不是不可以，也不一定就是突兀。此外有些地方有点超现实表现，比如初次相遇那条猎犬，我就觉得有点…</p>
 <p>小说里的每一个人物都感觉蛮有意思，既现实又荒诞，反而让我觉得一直生活在树上的主角最正常？小说的主题应该是对自由的追求，像主角一样，生活中树上的自由的世界，但是就正如没有绝对的自由，树上的自由是有“根”的约束。自由如柯希莫也受情所困，也无可奈何。</p>
 <p>“我希望它们被看成是现代人的祖先家系图，在其中的每一张脸上有我们身边人们的某些特征，你们的，我自己的。”</p>
+ </p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 animate-box">
+                        
+                            <div class="next-post">
+                                <div class="next">下一篇</div>
+                                <a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">
+                                    <h3 class="post-title">
+                                        《历史深处的忧虑》
+                                    </h3>
+                                </a>
+                            </div>
+                        
+                    </div>
+                </div>
+
+                <div class="row">
+    <div class="col-md-12 animate-box">
+        
+    </div>
+</div>
 
             </div>
-            
-              <div class="tag-container">
-                
-                  <a href="https://dengbledore.github.io/tag/4ZDRj1syQ/" class="tag">
-                    小说
-                  </a>
-                
-                  <a href="https://dengbledore.github.io/tag/p3BQCpa7MN/" class="tag">
-                    外国文学
-                  </a>
-                
-              </div>
-            
-            
-              <div class="next-post">
-                <div class="next">下一篇</div>
-                <a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">
-                  <h3 class="post-title">
-                    《历史深处的忧虑》
-                  </h3>
-                </a>
-              </div>
-            
 
-            
-
-          </div>
-
-        </div>
-      </div>
+        </article>
     </div>
+</div>
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    
+
+    <!-- 返回顶部 -->
+    <div class="back-to-top">
+    
+        <a href="#!" id="tool-toc" class="hidden-xs hidden-sm">
+            <i class="fa fa-map"></i>
+        </a>
+        <br>
+    
+    <a href="#top" class="hidden-xs hidden-sm"><i class="fa fa-paper-plane"></i></a>
+</div>
+
+<div class="post-toc animated fadeInRight hidden-xs hidden-sm" style="display: none;">
+    <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E4%BD%9C%E8%80%85%E4%BB%8B%E7%BB%8D">作者介绍</a></li>
+<li><a href="#%E4%BD%9C%E5%93%81%E7%AE%80%E4%BB%8B">作品简介</a></li>
+<li><a href="#%E6%88%91%E7%9A%84%E8%A7%82%E6%84%9F">我的观感</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+
+    
+<footer id="fh5co-footer">
+  <p>Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a></p>
+</footer>
+
+
+    <!-- jQuery -->
+<script src="https://dengbledore.github.io/media/scripts/jquery.min.js"></script>
+<!-- img lazy load -->
+<script src="https://dengbledore.github.io/media/scripts/jquery.lazyload.min.js"></script>
+<!-- jQuery Easing -->
+<script src="https://dengbledore.github.io/media/scripts/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="https://dengbledore.github.io/media/scripts/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="https://dengbledore.github.io/media/scripts/jquery.waypoints.min.js"></script>
+<!-- Main JS -->
+<script src="https://dengbledore.github.io/media/scripts/main.js"></script>
+<!-- Md5 Min JS -->
+<script src="https://dengbledore.github.io/media/scripts/md5.min.js"></script>
+<!-- katex -->
+<!--<script src="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.js"></script>-->
+<!-- highlight -->
+<script src="https://cdn.bootcss.com/highlight.js/9.15.8/highlight.min.js"></script>
+
+
 <script type="application/javascript">
+    // 代码高亮
+    hljs.initHighlightingOnLoad();
 
-AOS.init();
+    // img 懒加载
+    $(function () {
+        $("img.lazy").lazyload({
+            effect: "fadeIn",  // 懒加载动画
+            threshold: 180  // 在图片距离屏幕180px时提前载入
+        });
+        // tooltip
+        $('[data-toggle="tooltip"]').tooltip();
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
+        // 目录
+        $('#tool-toc').click(function () {
+            $('.post-toc').toggle();
+        });
+    });
 
+    
+        var allImg = $("img");
+        allImg.on("contextmenu", function () {
+            return false;
+        });
+        allImg.on("dragstart", function () {
+            return false;
+        });
+    
 </script>
 
 
-  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-  <script>
-    hljs.initHighlightingOnLoad()
-  </script>
 
 
-
-
-
-  </body>
+</body>
 </html>

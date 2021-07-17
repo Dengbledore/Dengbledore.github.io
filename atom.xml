@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-17T13:04:33.741Z</updated>
+    <updated>2021-07-17T13:33:21.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -193,7 +193,27 @@
         <link href="https://dengbledore.github.io/post/yue-du-mu-lu/">
         </link>
         <updated>2021-07-17T11:17:19.000Z</updated>
-        <content type="html"><![CDATA[<table>
+        <content type="html"><![CDATA[<style>
+table th:first-of-type {
+    width: 80pt;
+}
+table th:nth-of-type(2) {
+    width: 200pt;
+}
+table th:nth-of-type(3) {
+    width: 180pt;
+}
+table th:nth-of-type(4) {
+    width: 80pt;
+}
+table th:nth-of-type(5) {
+    width: 80pt;
+}
+table th:nth-of-type(6) {
+    width: 80pt;
+}
+</style>
+<table>
 <thead>
 <tr>
 <th></th>
