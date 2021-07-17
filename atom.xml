@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-17T11:15:05.488Z</updated>
+    <updated>2021-07-17T11:42:13.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://dengbledore.github.io/images/avatar.png</logo>
     <icon>https://dengbledore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dengbledore&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[《历史深处的忧虑》]]></title>
+        <id>https://dengbledore.github.io/post/lishishenchudeyoulv/</id>
+        <link href="https://dengbledore.github.io/post/lishishenchudeyoulv/">
+        </link>
+        <updated>2021-07-17T11:37:42.000Z</updated>
+        <content type="html"><![CDATA[<p>稍等</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读目录（更新ing）]]></title>
+        <id>https://dengbledore.github.io/post/yue-du-mu-lu/</id>
+        <link href="https://dengbledore.github.io/post/yue-du-mu-lu/">
+        </link>
+        <updated>2021-07-17T11:17:19.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th></th>
+<th>书名</th>
+<th>作者</th>
+<th>评价</th>
+<th>感想</th>
+<th>豆瓣</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>历史深处的忧虑</td>
+<td>林达</td>
+<td>8.5</td>
+<td>[跳转] (https://dengbledore.github.io/post/lishishenchudeyoulv)</td>
+<td><a href="https://book.douban.com/subject/1027191/">跳离</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://dengbledore.github.io/post/hello-gridea/</id>
