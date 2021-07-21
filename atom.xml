@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-07-19T14:36:43.875Z</updated>
+    <updated>2021-07-21T14:48:42.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -11,12 +11,29 @@
     <icon>https://dengbledore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dengbledore&apos;s Blog</rights>
     <entry>
+        <title type="html"><![CDATA[《窗边的小豆豆》]]></title>
+        <id>https://dengbledore.github.io/post/chuangbiandexiaodoudou/</id>
+        <link href="https://dengbledore.github.io/post/chuangbiandexiaodoudou/">
+        </link>
+        <updated>2021-07-21T14:41:04.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="简介">简介</h2>
+<p>这是日本作家黑柳彻子的一部自传体作品，以第三人称的口吻描述了“小豆豆”（作者）上小学期间的生活性故事，这些经历也是作者的真实经历。故事大约发生在二战前后。</p>
+<h2 id="读后感">读后感</h2>
+<p>这本书最让人感动的是巴学园校长小林宗作先生的教育理念，小林校长的原话是：“无论哪个孩子，当他出世的时候，都具有优良的品质。在他成长的过程中，会受到很多影响，有来自周围的环境的，也有来自成年人的影响，这些优良的品质可能会受到损害。所以，我们要早早地发现这些优良的品质，并让它们得以发扬光大，把孩子们培养成有个性的人。”所以基于此，我们可以看到小林校长他尊重小朋友，是很真挚地尊重小朋友，平等信任地看待对方，这就是绝大多数人做不到的地方。所以他可以认真听小豆豆一直唠叨四个小时，他关心每个小朋友，他给予小朋友们很大的主动权并信任他们。他重视小朋友们知识的获取，也重视学生生活习惯、心理健康、社会情理等方面的塑造。<br>
+我觉得尊重是第一出发点，可是我们没有耐心也不会认真去对待小孩，包括绝大多数的父母对待自己的小孩。很多时候大人就是独裁者，决定小孩的一切，实际上挺可悲也挺残忍的。所以我认为每一对在成为父母前至少先好好学习一下如何做一对合格的父母，再去为人父母。<br>
+就作品本身来说，小豆豆的心理描写也是非常细腻真实，一个活灵活现的小豆豆跃然纸上。<br>
+真羡慕小豆豆啊</p>
+<p>“教育，就是要蹲下，看看孩子们所看的高度”——引用自豆友@Vamei</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《乡土中国》]]></title>
         <id>https://dengbledore.github.io/post/xiangtuzhongguo/</id>
         <link href="https://dengbledore.github.io/post/xiangtuzhongguo/">
         </link>
         <updated>2021-07-17T14:07:41.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="起">起</h2>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h2 id="起">起</h2>
 <p>这是一本探讨中国社会结构的社会学著作，费孝通先生从乡土社区、社会传递、家族制度、道德观念、权力结构、社会规范、社会变迁等角度分析、解剖了中国乡土社会的结构及其本色。</p>
 <h2 id="作者简介">作者简介</h2>
 <p>籍贯：江苏吴江市</p>
@@ -107,7 +124,8 @@
         <link href="https://dengbledore.github.io/post/renshengdezhihui/">
         </link>
         <updated>2021-07-17T13:57:20.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="作者介绍叔本华">作者介绍——叔本华</h2>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h2 id="作者介绍叔本华">作者介绍——叔本华</h2>
 <p>德国著名哲学家，唯意志主义和现代悲观主义创始人。富二代，家中极其有钱，所以才有时间精力和money写作搞哲学。其母亲比父亲年轻许多，也喜欢搞文艺，社交达人，喜欢开party，写言情小说，也就没空搭理儿子，所以两个人关系不怎样；两个人对于彼此的作品还互相鄙夷，所以在叔本华的作品里也看的到他对所有女性的鄙夷（哈哈，应该是受他母亲影响）。</p>
 <p>小叔从小周游列国，所以见识颇多，影响颇广。小叔自尊心很强，应该也很有才，大一大二就学习各个专业的专业课，旁听生理学、天文学、气象学等，掌握7中语言，胸有大志，有点傲娇。</p>
 <p>之后进入柏林大学当讲师，并不是很看得起名噪一时的黑格尔，所以当时选择了和黑格尔相同的授课时间（那时学生自由选择听哪个老师的课），哈哈，结果也没几个人听他的课。</p>
@@ -175,7 +193,8 @@
         <link href="https://dengbledore.github.io/post/gushixinbian/">
         </link>
         <updated>2021-07-17T12:47:09.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="新故事新演绎">新故事，新演绎</h2>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h2 id="新故事新演绎">新故事，新演绎</h2>
 <p>在这里开一个坑，聊聊鲁迅先生这本久负盛名的《故事新编》，不能说能读懂，但希望重新了解一下鲁迅先生，有收获更好！</p>
 <p>这本书跨度很长，1922-1935，“从严肃，到油滑，到生死”（严肃/油滑应该指写作风格？），可是内容却不长，150页32开纸（一个手掌大）。</p>
 <p>主要内容从序言里可以看出是取材于古代和现代，即对于传说和童话地现代化的改变，加入了鲁迅式的讥讽。但在这本书里可见鲁迅想象力之瑰丽，修辞之丰富，其他读者说是“一碗怪味汤”，极有意思。</p>
@@ -262,7 +281,8 @@
         <link href="https://dengbledore.github.io/post/shushangdenanjue/">
         </link>
         <updated>2021-07-17T12:39:11.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="作者介绍">作者介绍</h2>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h2 id="作者介绍">作者介绍</h2>
 <p>1923年生，意大利人，父亲是园艺师，母亲是植物学家，有个弟弟。意大利共产党员，二战参加过反法西斯运动。1985年提名诺贝尔文学奖，于这一年去世。代表作是“祖先三部曲”：《两半的子爵》、《树上的男爵》、《看不见的骑士》，这些作品属于他中期的创作。</p>
 <h2 id="作品简介">作品简介</h2>
 <p>第一人称讲述“我”哥柯希莫在树上的传奇一生，对，柯希莫就是世袭的男爵。</p>
@@ -314,7 +334,8 @@
         <link href="https://dengbledore.github.io/post/lishishenchudeyoulv/">
         </link>
         <updated>2021-07-17T11:37:42.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h2 id="介绍">介绍</h2>
 <p>作为“近距离看美国”系列的第一部，林达比较生动地讲述了美国的政治制度、法律、价值观等，及其发展和背后根由。生动是因为林达是以美国生活中常见的现象或故事来给我们讲述背后的文化，所以这样一来我们对美国的误解或者刻板印象就能得到消除或减小，误解只是因为不了解。</p>
 <p>从新闻上或影视中了解到的内容不一定就很真实；或许真实，但是它们所展示的角度也往往比较集中。很多时候，新闻传媒更容易受到大环境的影响，更不要说大数据算法给我们的推荐内容，所以得到的信息往往比较局限，而且很多时候它们直接或间接给你的是价值的判断，而不是事实的陈述。所以，最好的了解就是亲身去了解，自己通过对事实的观察，从而进行价值的判断，可惜本人无法前往。</p>
 <p>还好，我们可以通过此书作者的眼睛去观察。首先，作者是作为一位平民的角度去看美国的平民，毕竟再大的国也是由平常人组成，人组成社会，社会在个人投影，进而观察个人也可以看到社会的缩影，观察许许多多的个人，就能有比较宽广的角度了，林达就是这么做的。其次，林达更多的是以质朴的语言进行了事实的陈述，更多的价值观的判断交给了读者自己，即告诉了我们是什么，并帮我们解释了为什么，没告诉我们应该是什么，好不好，还算比较客观。</p>
@@ -423,6 +444,14 @@ table th:nth-of-type(6) {
 <td>9</td>
 <td><a href="https://dengbledore.github.io/post/xiangtuzhongguo/">跳转</a></td>
 <td><a href="https://book.douban.com/subject/1795079/">跳离</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>窗边的小豆豆</td>
+<td>黑柳彻子</td>
+<td>8.7</td>
+<td><a href="https://dengbledore.github.io/post/chuangbiandexiaodoudou/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1007914/">跳离</a></td>
 </tr>
 </tbody>
 </table>
