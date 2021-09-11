@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-08-15T14:01:31.506Z</updated>
+    <updated>2021-09-11T13:13:49.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://dengbledore.github.io/images/avatar.png</logo>
     <icon>https://dengbledore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dengbledore&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[《霍乱时期的爱情》]]></title>
+        <id>https://dengbledore.github.io/post/huoluanshiqideaiqing/</id>
+        <link href="https://dengbledore.github.io/post/huoluanshiqideaiqing/">
+        </link>
+        <updated>2021-09-11T12:22:31.000Z</updated>
+        <content type="html"><![CDATA[<p>这段时间太忙，没想到竟然距离上一本书已经一个月了，不过另一个原因或许是因为这本小说特别吸引我，所以断断续续地看了这么长的时间。</p>
+<p>但我承认这是一本好书，一本大作家才能写出来的小说，马尔克斯把时间描写得游刃有余，一会儿是回忆，一会儿是现在，切换得也毫无痕迹；一本书就是一个人的一生，他也把时间的厚重感描写了出来，不知道《百年孤独》这部作品是在这之前还是之后，既不乏百年也不乏孤独；文字有考究却又不着痕迹，看不出矫揉造作，这应该是一个作家的基本功吧？好奇作者是怎么把这么多情感描写得真实且细腻且让人动容，好的作家是心思缜密且敏感的吧。</p>
+<p>怎么说呢，开始我觉得这部作品或许名不副实，前半部分平平无奇，就像是一部言情小说，除了细节更到位，心理描写更丰富，不流于俗套剧情外，我丝毫没有看出有什么长处来，我是没想到这么简单的清洁恁是写了大半部分；到了最后，我才喜欢上这部作品，快速地看完，没有多余的思考（真不该啊，最后部分才是全文的精华啊），也没有做太多的笔记，因为已经沉浸其中。</p>
+<p>主题是爱情，忘了在哪里看到的说，爱情该有的样子在这部书里都能找到。爱情是一种关系，关系需要在两个及以上的对象间发生，因此每两个对象之间就有一种爱情，或同性、异性、跨年龄、跨种族……当然这里面最主要的两段关系是达萨和乌尔比诺，达萨与阿里萨（看名字就能猜出男主和女主 ^_−☆ ），前一段是原配，在一起生活了接近一辈子，“爱情不是幸福，而是一种稳定”，这是一种常见的世俗的爱情，像是一位穿上了华服的富太太；而后一种爱情像是洗净铅华的爱情，诚挚且真诚，同时有了时间的厚重的加持，少了浮躁却多了沉淀，但这就是爱吗？不知道，好多爱情都只是以爱之名，甚至他们自己也不知道。</p>
+<p>马尔克斯太高，高得让我无法企及，大抵可以借由他人之手才能触摸。也罢了，我就是一介凡人，能有一丝收获就是值得！</p>
+<p>( ̀⌄ ́)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《沉默的大多数》]]></title>
         <id>https://dengbledore.github.io/post/chenmodedaduoshu/</id>
@@ -514,6 +528,136 @@
 <h2 id="总结">总结</h2>
 <p>怎么说呢，每种制度都有利有弊，每种制度也或许只适用于某个国情、种族或文化。所以美国的制度也有我们或许值得借鉴的地方，借鉴须谨慎，我们应该向改革开放一样，逐步探索，像摸着石头过河一样，去了解其适应性，在别人那里用得好不一定在本国就也可以用得好，但须得去探索。</p>
 <p>追求自由是需要付出代价的，当自由和代价遇到冲突时，美国人还是坚守着自由，这需要勇气。当代价越来越大，就需要妥协掉一部分的自由。人的某些基本权利，是可以放之四海而皆准的。对于自由平等公正是每个人所追求的，虽然做不到绝对的自由平等公正，但是我们可以做到当下最大程度的自由平等公正，我们也必将越来越自由平等公正。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读目录（更新ing）]]></title>
+        <id>https://dengbledore.github.io/post/yue-du-mu-lu/</id>
+        <link href="https://dengbledore.github.io/post/yue-du-mu-lu/">
+        </link>
+        <updated>2021-07-17T11:17:19.000Z</updated>
+        <content type="html"><![CDATA[<style>
+table th:first-of-type {
+    width: 80pt;
+}
+table th:nth-of-type(2) {
+    width: 200pt;
+}
+table th:nth-of-type(3) {
+    width: 180pt;
+}
+table th:nth-of-type(4) {
+    width: 80pt;
+}
+table th:nth-of-type(5) {
+    width: 80pt;
+}
+table th:nth-of-type(6) {
+    width: 80pt;
+}
+</style>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>书名</th>
+<th>作者</th>
+<th>评价</th>
+<th>感想</th>
+<th>豆瓣</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>历史深处的忧虑</td>
+<td>林达</td>
+<td>8.8</td>
+<td><a href="https://dengbledore.github.io/post/lishishenchudeyoulv/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1027191/">跳离</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>树上的男爵</td>
+<td>伊塔洛·卡尔维诺</td>
+<td>8.5</td>
+<td><a href="https://dengbledore.github.io/post/shushangdenanjue/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/6789605/">跳离</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>故事新编</td>
+<td>鲁迅</td>
+<td>9.2</td>
+<td><a href="https://dengbledore.github.io/post/gushixinbian/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/2046909/">跳离</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>人生的智慧</td>
+<td>叔本华</td>
+<td>8.6</td>
+<td><a href="https://dengbledore.github.io/post/renshengdezhihui/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/3261600/">跳离</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>乡土中国</td>
+<td>费孝通</td>
+<td>9</td>
+<td><a href="https://dengbledore.github.io/post/xiangtuzhongguo/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1795079/">跳离</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>窗边的小豆豆</td>
+<td>黑柳彻子</td>
+<td>8.7</td>
+<td><a href="https://dengbledore.github.io/post/chuangbiandexiaodoudou/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1007914/">跳离</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>少年维特的烦恼</td>
+<td>歌德</td>
+<td>8</td>
+<td><a href="https://dengbledore.github.io/post/shaonianweitedefannao/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1047138/">跳离</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>悉达多</td>
+<td>赫尔曼·黑塞</td>
+<td>9</td>
+<td><a href="https://dengbledore.github.io/post/xidaduo/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/26980487/">跳离</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>邓小平时代</td>
+<td>傅高义</td>
+<td>8.8</td>
+<td><a href="https://dengbledore.github.io/post/dengxiaopingshidai/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/20424526/">跳离</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>沉默的大多数</td>
+<td>王小波</td>
+<td>9.2</td>
+<td><a href="https://dengbledore.github.io/post/chenmodedaduoshu/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/1054685/">跳离</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>霍乱时期的爱情</td>
+<td>加西亚·马尔克斯</td>
+<td>8.5</td>
+<td><a href="https://dengbledore.github.io/post/huoluanshiqideaiqing/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/10594787/">跳离</a></td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     </entry>
 </feed>
