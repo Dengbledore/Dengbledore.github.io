@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dengbledore.github.io</id>
     <title>Dengbledore&apos;s Blog</title>
-    <updated>2021-09-21T14:14:08.394Z</updated>
+    <updated>2021-11-14T02:45:10.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dengbledore.github.io"/>
     <link rel="self" href="https://dengbledore.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://dengbledore.github.io/images/avatar.png</logo>
     <icon>https://dengbledore.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dengbledore&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[《哈利波特》全集]]></title>
+        <id>https://dengbledore.github.io/post/halibote/</id>
+        <link href="https://dengbledore.github.io/post/halibote/">
+        </link>
+        <updated>2021-11-14T02:06:55.000Z</updated>
+        <content type="html"><![CDATA[<p>10月份看完了《哈利波特》七本书，偶尔还会看看电影，看看里面具体的表现形式，看看电影忽略了多少重要的情节。<br>
+看起来是挺快的，颇有一番想要一下看完的冲动，这就是这部小说吸引人的地方吧。在那个充满魔法的世界里，它满足了每个人的想象力这只饕餮，这是一场想象力的神奇历程。我对我先看了电影版感到十分遗憾，因为我一看到金妮我就想到了电影里的金妮，咿，小说里的金妮可是比赫敏还要美。的确看来电影会局限自己的想象力，总会不知觉就与电影里的场景联系起来，所以人是很容易先入为主的吧。<br>
+怎么说呢，这部小说老少咸宜，里面有众多的人物，有众多的线索，这种线索甚至贯穿始终，有些线索甚至埋得比较深，让读者觉得罗琳没有一句废话，颇有一种看悬疑小说的感觉。所以一切都说得通，一切的伏笔都得以揭开，All makes sense！所以这个小说给人的感觉就引人入胜，你急迫想知道后续剧情，你想知道这一切都是为什么？<br>
+哈哈，我也算是哈利波特原著的人啦，好多人是小学初中看的，所以，惭愧呀，不过没关系，不同年龄段看的感受不一样吧，遗憾也是一种美的经历～</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《江城》]]></title>
         <id>https://dengbledore.github.io/post/jiangcheng/</id>
@@ -676,6 +688,14 @@ table th:nth-of-type(6) {
 <td>8.7</td>
 <td><a href="https://dengbledore.github.io/post/jiangcheng/">跳转</a></td>
 <td><a href="https://book.douban.com/subject/7060185/">跳离</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>哈利波特</td>
+<td>J.K. 罗琳</td>
+<td>9.5</td>
+<td><a href="https://dengbledore.github.io/post/halibote/">跳转</a></td>
+<td><a href="https://book.douban.com/subject/24531956/">跳离</a></td>
 </tr>
 </tbody>
 </table>
